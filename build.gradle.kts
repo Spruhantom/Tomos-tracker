@@ -8,5 +8,4 @@ plugins {
     id("com.android.application") version "9.3.1" apply false
     id("com.android.kotlin.multiplatform.library") version "9.3.1" apply false
     id("io.ktor.plugin") version "3.3.3" apply false
-    application apply false
 }
